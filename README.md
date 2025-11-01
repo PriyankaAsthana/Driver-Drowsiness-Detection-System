@@ -20,11 +20,6 @@
 3. **Real-Time Alerts:** Triggers buzzer sounds and on-screen warnings if drowsiness is detected.
 4. **Safety First:** Designed for ease of use in vehicles, using only a webcam and your Python environment.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8zb1hXbK9l9Ly/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
-</div>
-
 ---
 
 ## 🚀 Features
@@ -40,11 +35,7 @@
 ## 🎬 Demo
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Demo" width="400"/>
-  <br>
-  <b>When the driver's eyes close...</b>
-  <br>
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="Alarm animation" width="250"/>
+  
 </div>
 
 ---
