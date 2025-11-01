@@ -32,14 +32,6 @@
 
 ---
 
-## 🎬 Demo
-
-<div align="center">
-  
-</div>
-
----
-
 ## 🛠️ Installation
 
 ```bash
