@@ -11,10 +11,6 @@
 
 **Driver Drowsiness Detection System** is a real-time, AI-powered solution built in Python to prevent accidents caused by sleepy drivers. By leveraging computer vision and deep learning, it monitors driver alertness and sends warnings when signs of drowsiness are detected.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26uf9QPzzlKPvQG5y/giphy.gif" alt="Eye blink animation" width="200"/>
-</div>
-
 ---
 
 ## 🧠 How It Works
@@ -116,16 +112,6 @@ graph TD
 - [imutils](https://github.com/jrosebr1/imutils)
 - [scipy](https://www.scipy.org/)
 - [Python](https://www.python.org/)
-
----
-
-## 🦄 Crazy Animation Gallery
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6nV4C5hYw2c3bLq8/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/3o6ZsTQZQhQyC1K1Xa/giphy.gif" width="180"/>
-</div>
 
 ---
 
