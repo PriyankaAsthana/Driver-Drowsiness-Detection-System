@@ -1,7 +1,7 @@
 # 🚗😴 Driver Drowsiness Detection System 😴🚗
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6wrvdHFbwBrUFenu/giphy.gif" alt="Driver yawning" width="350"/>
+  <img width="1919" height="884" alt="Image" src="https://github.com/user-attachments/assets/0a9ec504-00a9-4aee-8928-c51735c4d2a5" />
   <h2>Don't snooze and cruise! Stay alert with AI-powered Drowsiness Detection 🚨</h2>
 </div>
 
